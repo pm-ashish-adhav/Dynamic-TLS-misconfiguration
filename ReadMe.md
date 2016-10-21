@@ -1,12 +1,16 @@
-This contains the following
+ # Dynamic TLS Misconfiguration Detection #
+ - - - -
+ 
+This contains the following <br />
 
-reader.py : dpkt based pcap parser.
-out.pcap  : pcap file captured from Android Device
-parsed_pcap.txt : the output of the reader.py
+reader.py : dpkt based pcap parser. <br />
+out.pcap  : pcap file captured from Android Device <br />
+parsed_pcap.txt : the output of the reader.py <br />
 
 
-Instructions:
-run the reader as
-python2 reader.py out.pcap > parsed_pcap.txt 
+Instructions: <br />
+run the reader as <br />
+python2 reader.py out.pcap > parsed_pcap.txt <br />
+
 
 
